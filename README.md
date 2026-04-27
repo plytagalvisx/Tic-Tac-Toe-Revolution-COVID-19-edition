@@ -27,6 +27,10 @@ The course focuses on project development, project methods, teamwork, and buildi
 
 The project is built with React and uses Firebase Hosting for deployment.
 
+## AI Logic
+
+The single-player mode includes different difficulty levels. Easy mode selects random moves, while hard mode uses the minimax algorithm to calculate the best possible move. Medium mode combines both approaches.
+
 ## Features
 
 - Classic Tic-Tac-Toe inspired gameplay
