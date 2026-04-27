@@ -1,0 +1,11 @@
+#footer{
+  background: url("../Images/footer1.png") no-repeat;
+  background-color: dimgrey;
+  background-size: contain;
+  background-position: right;
+  border:10px;
+  min-height: 100%;
+  right:0;
+  bottom:0;
+  padding: 50px;
+}

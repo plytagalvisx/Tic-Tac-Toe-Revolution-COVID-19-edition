@@ -1,0 +1,11 @@
+#inventoryImage {
+    width:75px;
+    height:75px;
+}
+#inventory h4 {
+    text-align: center;
+}
+#inventory {
+    width: 90%;
+    margin: auto;
+}

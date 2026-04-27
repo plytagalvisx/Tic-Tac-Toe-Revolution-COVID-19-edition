@@ -1,0 +1,63 @@
+#box{
+    display:grid;
+    grid-template-columns: 60px 60px 60px;
+    grid-template-rows: 60px 60px 60px;
+    position: relative;
+    top: 270px;
+    left: 47%;
+}
+
+#one, #two, #three, #four, #five, #six, #seven, #eight, #nine{
+    border: solid black;
+    background-color: white;
+}
+
+#seven, #eight{
+    border-right: 0px;
+}
+
+#three, #six{
+    border-bottom: 0px;
+}
+
+#one, #two, #four, #five{
+    border-bottom: 0px;
+    border-right: 0px;
+}
+
+{/*#one:hover{
+    background: crimson;
+}
+
+#two:hover{
+    background: blue;
+}
+
+#three:hover{
+    background: green;
+}
+
+#four:hover{
+    background: purple;
+}
+
+#five:hover{
+    background: red;
+}
+
+#six:hover{
+    background: yellow;
+}
+
+#seven:hover{
+    background: pink;
+}
+
+#eight:hover{
+    background: turquoise;
+}
+
+#nine:hover{
+    background: cyan;
+}
+*/}

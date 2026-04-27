@@ -1,0 +1,11 @@
+#learnedSkills button {
+    display: block;
+    margin: auto;
+}
+#learnedSkillsGrid {
+    width: max-content;
+    margin: auto;
+}
+.skill {
+    width: 104px;
+}
