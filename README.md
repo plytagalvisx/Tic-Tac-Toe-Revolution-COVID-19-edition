@@ -10,7 +10,7 @@ https://tic-tac-toe-revolution-covid19.web.app/
 
 ## Course Context
 
-This project was created as part of the KTH Royal Institute of Technology course **II1309 Projects and Project Methods** in a project group setting. Contributed by:
+This project was created as part of the KTH Royal Institute of Technology course **II1302 Projects and Project Methods** in a project group setting (spring term of 2020). Contributed by:
 
 - Joakim Lundström
 - Georgek Aroush
