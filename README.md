@@ -17,7 +17,7 @@ This project was created as part of the KTH Royal Institute of Technology course
 - Jennifer Wang
 - Daniel Nyeko Moini
 
-Course page: [https://www.kth.se/student/kurser/kurs/II1309?l=en](https://www.kth.se/student/kurser/kurs/II1302?l=en)  
+Course page: [II1302 Course Page](https://www.kth.se/student/kurser/kurs/II1302?l=en)  
 
 The course focuses on project development, project methods, teamwork, and building a working prototype within a structured development process.
 
